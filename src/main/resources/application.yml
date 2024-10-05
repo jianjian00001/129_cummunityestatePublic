@@ -53,10 +53,10 @@ mybatis:
 my:
   mail:
     host: smtp.qq.com
-    username: 931708230@qq.com
+    username: 1556708905@qq.com
     password: pwcpllkfdhnubece
     port: 465
-    from: 931708230@qq.com
+    from: 1556708905@qq.com
     defaultEncoding: utf-8
     auth: true
     timeout: 20000
